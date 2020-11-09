@@ -1,2 +1,2 @@
 # SegTracker (alpha Version)
-An open source software for segmentation and tracking of animals
+A deep-learning based open source software for the identification and tracking of animals in a complex environment. 
